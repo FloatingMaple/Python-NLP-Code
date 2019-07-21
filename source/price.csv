@@ -1,0 +1,16 @@
+id	price	#bedroom	#bathroom	#isBrick	local
+1	2100	3	1	t	bos
+2	3200	4	2	r	bos
+3	2200	2	2	t	bos
+4	1900	4	1	t	bos
+5	3400	5	1	t	bos
+6	6700	3	1	t	bos
+7	1200	2	1	r	bos
+8	3500	4	1	r	bos
+9	6500	1	2	r	link
+10	9800	2	1	t	link
+11	7800	3	1	r	link
+12	6700	4	3	r	link
+13	5500	6	3	t	link
+14	6600	3	1	t	new york
+15	3340	2	2	t	new york
